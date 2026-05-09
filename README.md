@@ -32,5 +32,15 @@ Como Systems Analyst, el enfoque principal fue la eficiencia del sistema:
 💻 Tecnologías utilizadas
 
   ▶️ Lenguaje: C# (.NET 10)
+  
   ▶️ Interoperabilidad (P/Invoke): Uso de user32.dll para la gestión de recursos nativos de Windows.
+  
   ▶️Entorno: Visual Studio 2022.
+
+<img width="275" height="101" alt="image" src="https://github.com/user-attachments/assets/a0588367-9b0f-4a29-b2bf-c6c5952896cc" />
+
+<img width="278" height="97" alt="image" src="https://github.com/user-attachments/assets/88bfded5-aaf1-4476-9829-8248fe3d032d" />
+
+<img width="299" height="141" alt="image" src="https://github.com/user-attachments/assets/e4b5d96d-4ee6-47d0-a512-7b9b00c20c27" />
+
+
